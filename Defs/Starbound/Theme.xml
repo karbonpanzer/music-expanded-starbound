@@ -1,0 +1,87 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Starbound</defName>
+        <label>Music Expanded: Starbound</label>
+		<iconPath>UI/Icons/Starbound</iconPath>
+        <description>Contains Tracks from the classic space-adventure game, Starbound. This has all the officially released tracks, including unused tracks and battle tracks.</description>
+		<tracks>			
+			<!-- Ambient Tracks -->
+			
+			<li>ME_Starbound_Accretion_Disc</li>
+			<li>ME_Starbound_Arctic_Constellation_1</li>
+			<li>ME_Starbound_Arctic_Constellation_2</li>
+			<li>ME_Starbound_Arctic_Exploration_1</li>
+			<li>ME_Starbound_Arctic_Exploration_2</li>
+			<li>ME_Starbound_Atlas</li>
+			<li>ME_Starbound_Blue_Straggler</li>
+			<li>ME_Starbound_Crystal_Exploration_1</li>			
+			<li>ME_Starbound_Crystal_Exploration_2</li>
+			<li>ME_Starbound_Cygnus_X1</li>
+			<li>ME_Starbound_Dead_or_Alive</li>
+			<li>ME_Starbound_Desert_Exploration_1</li>
+			<li>ME_Starbound_Desert_Exploration_2</li>
+			<li>ME_Starbound_Epsilon_Indi</li>
+			<li>ME_Starbound_Eridanus_Supervoid</li>
+			<li>ME_Starbound_Error_0xBFAF000</li>
+			<li>ME_Starbound_Europa</li>
+			<li>ME_Starbound_Forsaken_Grotto</li>
+			<li>ME_Starbound_Glacial_Horizon</li>
+			<li>ME_Starbound_Glitch</li>
+			<li>ME_Starbound_Haiku</li>	
+			<li>ME_Starbound_Horsehead_Nebula</li>
+			<li>ME_Starbound_Housecleaning</li>
+			<li>ME_Starbound_Hymn_to_the_Stars</li>
+			<li>ME_Starbound_Inviolate</li>
+			<li>ME_Starbound_Large_Magellanic_Cloud</li>
+			<li>ME_Starbound_M54</li>
+			<li>ME_Starbound_Mercury</li>
+			<li>ME_Starbound_Mira</li>
+			<li>ME_Starbound_Nomads</li>
+			<li>ME_Starbound_Ocean_Exploration_2</li>
+			<li>ME_Starbound_On_the_Beach_at_Night</li>
+			<li>ME_Starbound_Procyon</li>
+			<li>ME_Starbound_Psyche</li>
+			<li>ME_Starbound_Scorian_Flow</li>
+			<li>ME_Starbound_Stellar_Acclimation</li>
+			<li>ME_Starbound_Stellar_Formation</li>
+			<li>ME_Starbound_Swansong</li>
+			<li>ME_Starbound_Temple_of_Kluex</li>
+			<li>ME_Starbound_Tentacle_Exploration_1</li>
+			<li>ME_Starbound_The_Peacekeepers</li>
+			<li>ME_Starbound_Ultramarine</li>
+			<li>ME_Starbound_Vast_Immortal_Suns</li>
+			<li>ME_Starbound_Via_Aurora</li>
+			<li>ME_Starbound_Planetarium</li>
+			<li>ME_Starbound_Tranquility_Base</li>			
+		
+			<!-- Main Menu/Credits Tracks -->
+			
+			<li>ME_Starbound_Starbound</li>			
+			
+			<!-- Battle Tracks Tracks -->
+
+			<li>ME_Starbound_Arctic_Battle_1</li>
+			<li>ME_Starbound_Arctic_Battle_2</li>
+			<li>ME_Starbound_Arctic_Battle_3</li>
+			<li>ME_Starbound_Casiopeia</li>				
+			<li>ME_Starbound_Crystal_Battle_1</li>		
+			<li>ME_Starbound_Desert_Battle_2</li>			
+			<li>ME_Starbound_Drosera</li>	
+			<li>ME_Starbound_Event_Horizon</li>		
+			<li>ME_Starbound_Impact_Event</li>		
+			<li>ME_Starbound_Gravitational_Collapse</li>    
+			<li>ME_Starbound_Ocean_Battle_1</li>
+			<li>ME_Starbound_I_Was_The_Sun</li>
+			<li>ME_Starbound_Lava_Exploration_1</li>
+			<li>ME_Starbound_Lava_Exploration_2</li>
+			<li>ME_Starbound_The_Apex</li>
+			<li>ME_Starbound_The_Deep</li>
+			<li>ME_Starbound_Tentacle_Battle_1</li>			
+			
+			<!-- Custom Cue Tracks -->
+			
+			<!-- Anomaly Tracks -->
+			
+			</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

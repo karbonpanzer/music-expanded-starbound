@@ -1,0 +1,369 @@
+<Defs>
+
+   <!-- Main Tracks -->	
+	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Accretion Disc</label>
+		<defName>ME_Starbound_Accretion_Disc</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Accretion Disc</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Arctic Constellation 1</label>
+		<defName>ME_Starbound_Arctic_Constellation_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Arctic Constellation 1</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Arctic Constellation 2</label>
+		<defName>ME_Starbound_Arctic_Constellation_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Arctic Constellation 2</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Arctic Exploration 1</label>
+		<defName>ME_Starbound_Arctic_Exploration_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Arctic Exploration 1</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Arctic Exploration 2</label>
+		<defName>ME_Starbound_Arctic_Exploration_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Arctic Exploration 2</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Atlas</label>
+		<defName>ME_Starbound_Atlas</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Atlas</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Blue Straggler</label>
+		<defName>ME_Starbound_Blue_Straggler</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Blue Straggler</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Crystal Exploration 1</label>
+		<defName>ME_Starbound_Crystal_Exploration_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Crystal Exploration 1</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Crystal Exploration 2</label>
+		<defName>ME_Starbound_Crystal_Exploration_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Crystal Exploration 2</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Cygnus X1</label>
+		<defName>ME_Starbound_Cygnus_X1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Cygnus X1</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Dead or Alive</label>
+		<defName>ME_Starbound_Dead_or_Alive</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Dead or Alive</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Desert Exploration 1</label>
+		<defName>ME_Starbound_Desert_Exploration_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Desert Exploration 1</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Desert Exploration 2</label>
+		<defName>ME_Starbound_Desert_Exploration_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Desert Exploration 2</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Epsilon Indi</label>
+		<defName>ME_Starbound_Epsilon_Indi</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Epsilon Indi</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Eridanus Supervoid</label>
+		<defName>ME_Starbound_Eridanus_Supervoid</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Eridanus Supervoid</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Error 0xBFAF000</label>
+		<defName>ME_Starbound_Error_0xBFAF000</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Error 0xBFAF000</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Europa</label>
+		<defName>ME_Starbound_Europa</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Europa</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Forsaken Grotto</label>
+		<defName>ME_Starbound_Forsaken_Grotto</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Forsaken Grotto</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Glacial Horizon</label>
+		<defName>ME_Starbound_Glacial_Horizon</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Glacial Horizon</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Glitch</label>
+		<defName>ME_Starbound_Glitch</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Glitch</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Haiku</label>
+		<defName>ME_Starbound_Haiku</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Haiku</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Horsehead Nebula</label>
+		<defName>ME_Starbound_Horsehead_Nebula</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Horsehead Nebula</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Housecleaning</label>
+		<defName>ME_Starbound_Housecleaning</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Housecleaning</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Hymn to the Stars</label>
+		<defName>ME_Starbound_Hymn_to_the_Stars</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Hymn to the Stars</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Inviolate</label>
+		<defName>ME_Starbound_Inviolate</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Inviolate</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Large Magellanic Cloud</label>
+		<defName>ME_Starbound_Large_Magellanic_Cloud</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Large Magellanic Cloud</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- M54</label>
+		<defName>ME_Starbound_M54</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- M54</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Mercury</label>
+		<defName>ME_Starbound_Mercury</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Mercury</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Mira</label>
+		<defName>ME_Starbound_Mira</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Mira</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Nomads (Passacaglia)</label>
+		<defName>ME_Starbound_Nomads</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Nomads (Passacaglia)</clipPath>
+	</MusicExpanded.TrackDef>	
+	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Ocean Exploration 2</label>
+		<defName>ME_Starbound_Ocean_Exploration_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Ocean Exploration 2</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- On the Beach at Night</label>
+		<defName>ME_Starbound_On_the_Beach_at_Night</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- On the Beach at Night-- Original Version</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Procyon</label>
+		<defName>ME_Starbound_Procyon</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Procyon</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Psyche</label>
+		<defName>ME_Starbound_Psyche</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Psyche</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Scorian Flow</label>
+		<defName>ME_Starbound_Scorian_Flow</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Scorian Flow</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Stellar Acclimation</label>
+		<defName>ME_Starbound_Stellar_Acclimation</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Stellar Acclimation</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Stellar Formation</label>
+		<defName>ME_Starbound_Stellar_Formation</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Stellar Formation</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Swansong</label>
+		<defName>ME_Starbound_Swansong</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Swansong</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Temple of Kluex</label>
+		<defName>ME_Starbound_Temple_of_Kluex</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Temple of Kluex</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Tentacle Exploration 1</label>
+		<defName>ME_Starbound_Tentacle_Exploration_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Tentacle Exploration 1</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Starbound- The Peacekeepers</label>
+		<defName>ME_Starbound_The_Peacekeepers</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- The Peacekeepers</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Ultramarine</label>
+		<defName>ME_Starbound_Ultramarine</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Ultramarine</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Vast, Immortal Suns</label>
+		<defName>ME_Starbound_Vast_Immortal_Suns</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Vast, Immortal Suns</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Via Aurora</label>
+		<defName>ME_Starbound_Via_Aurora</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Via Aurora</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Planetarium</label>
+		<defName>ME_Starbound_Planetarium</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Planetarium</clipPath>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Tranquility Base</label>
+		<defName>ME_Starbound_Tranquility_Base</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Tranquility Base</clipPath>
+	</MusicExpanded.TrackDef>	
+	
+   <!-- Main Menu and Credits -->	
+   
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Starbound</label>
+		<defName>ME_Starbound_Starbound</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Starbound</clipPath>
+		<cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>  	
+	
+   <!-- Battle Tracks Small -->	
+
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Arctic Battle 1</label>
+		<defName>ME_Starbound_Arctic_Battle_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Arctic Battle 1</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>      
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Crystal Battle 1</label>
+		<defName>ME_Starbound_Crystal_Battle_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Crystal Battle 1</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef> 	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Drosera</label>
+		<defName>ME_Starbound_Drosera</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Drosera</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef> 	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Ocean Battle 1</label>
+		<defName>ME_Starbound_Ocean_Battle_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Ocean Battle 1</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- I Was the Sun (Before it was Cool)</label>
+		<defName>ME_Starbound_I_Was_The_Sun</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- I Was the Sun (Before it was Cool)</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Tentacle Battle 1</label>
+		<defName>ME_Starbound_Tentacle_Battle_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Tentacle Battle 1</clipPath>
+		<cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef> 	 	
+	
+	
+   <!-- Battle Tracks Medium -->
+	
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Arctic Battle 2</label>
+		<defName>ME_Starbound_Arctic_Battle_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Arctic Battle 2</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Casiopeia</label>
+		<defName>ME_Starbound_Casiopeia</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Casiopeia</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Desert Battle 2</label>
+		<defName>ME_Starbound_Desert_Battle_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Desert Battle 2</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Lava Exploration 2</label>
+		<defName>ME_Starbound_Lava_Exploration_2</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Lava Exploration 2</clipPath>
+		<cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef> 	
+ 		
+	
+   <!-- Battle Tracks Large -->
+
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Arctic Battle 3</label>
+		<defName>ME_Starbound_Arctic_Battle_3</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Arctic Battle 3</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>    
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Event Horizon</label>
+		<defName>ME_Starbound_Event_Horizon</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Event Horizon</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Gravitational Collapse</label>
+		<defName>ME_Starbound_Gravitational_Collapse</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Gravitational Collapse</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Lava Exploration 1</label>
+		<defName>ME_Starbound_Lava_Exploration_1</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Lava Exploration 1</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef> 
+	<MusicExpanded.TrackDef>
+		<label>Starbound- The Deep</label>
+		<defName>ME_Starbound_The_Deep</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- The Deep</clipPath>
+		<cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef> 		
+	
+   <!-- Battle Tracks Legendary -->	 
+
+	<MusicExpanded.TrackDef>
+		<label>Starbound- Impact Event</label>
+		<defName>ME_Starbound_Impact_Event</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- Impact Event</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Starbound- The Apex</label>
+		<defName>ME_Starbound_The_Apex</defName>
+		<clipPath>MusicExpanded/Starbound/Starbound- The Apex</clipPath>
+		<cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>       
+	
+    <!-- Custom Cues -->	
+	
+	<!-- Anomaly Tracks -->	
+	
+</Defs>
